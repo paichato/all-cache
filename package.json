@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "async-redis": "^2.0.0",
+    "pg-promise": "^11.5.4"
+  }
+}
